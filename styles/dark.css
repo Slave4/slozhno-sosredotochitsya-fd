@@ -11,8 +11,9 @@
   --text-color: #F1B2CE;
   --color-line: #F1B2CE;
   --title-decor-color: #000028;
-  --button-color: #FF007066;
-  --outline-color: #FF0070;
+  --button-color: #FF0070;
+  --outline-color: #FF007066;
+  --page-bg-color:#000028;
   --page-bg-image: url(../images/cover-image-dark.png);
 }
 
